@@ -37,10 +37,7 @@ Core Client permet de gérer facilement votre compte. Maximisez votre expérienc
 ## :camera: Captures d'écran
 
 ![Core Client](https://media.discordapp.net/attachments/1094632909463359529/1096530593380053053/image.png?width=1025&height=249)
-*Description de l'image*
-
 ![Help](https://media.discordapp.net/attachments/1094632909463359529/1096528870842306671/image.png?width=560&height=426)
-*Description de l'image*
 
 ## :rocket: Fonctionnalités
 
