@@ -21,6 +21,7 @@
 
 ## :scroll: Sommaire
 
+- [:pushpin:  Tutorial](#tutorial)
 - [:page_facing_up: (ToS)](#termes-de-service-tos)
 - [:memo: Description](#description)
 - [:camera: Image](#captures-décran)
@@ -28,6 +29,14 @@
 - [:speech_balloon: Support](#support)
 - [:coffee: Soutenir le projet](#soutenir-le-projet)
 - [:scroll: Licence](#licence)
+
+## :pushpin: Tutorial
+
+    Assurez-vous d'avoir Python 3 installé sur votre système.
+    Exécutez pip install -r requirements.txt pour installer les modules requis.
+    Exécutez python3 main.py pour lancer le fichier main.py.
+
+Assurez-vous que le fichier main.py et requirements.txt sont dans le même répertoire.
 
 ## :page_facing_up: Termes de service (ToS)
 
