@@ -31,7 +31,7 @@
 
 ## :page_facing_up: Termes de service (ToS)
 
-Core Client facilite la gestion de votre compte Discord, cependant, nous ne soutenons ni n'encourageons l'utilisation de Core Client pour des activités contraires aux Conditions d'utilisation (ToS) de Discord. Nous ne sommes pas responsables des actions entreprises par les utilisateurs qui enfreignent les règles de Discord. Utilisez Core Client de manière responsable et légale, en conformité avec les règles de Discord.
+Core Client facilite la gestion de votre compte Discord, cependant, nous ne soutenons ni n'encourageons l'utilisation de Core Client pour des activités contraires aux Conditions d'utilisation (ToS) de Discord. Nous ne sommes pas responsables des actions entreprises par les utilisateurs qui enfreignent les règles de Discord. Utilisez Core Client de manière responsable et légale, en conformité avec les règles de Discord. CoreClient est contre les ToS de Discord ! 
 
 ## :memo: Description
 
