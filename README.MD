@@ -4,7 +4,7 @@
 
 # :computer: Core Client
 
-[![Discord](https://img.shields.io/discord/123456789012345678.svg?colorB=7289DA&label=Discord&logo=discord&logoColor=white)]([https://discord.gg/M4DeuABSKz])
+[![Support](https://img.shields.io/discord/1091700912759771246?color=%237289DA&label=Rejoindre%20le%20serveur&logo=discord&style=for-the-badge)](https://discord.gg/M4DeuABSKz)
 [![License](https://img.shields.io/github/license/votre-utilisateur/votre-projet.svg)](LICENSE)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-%23FFDD00.svg)](https://www.buymeacoffee.com/xYanzu)
 [![Downloads](https://img.shields.io/github/downloads/xCoreProject/CoreClient.svg)](https://github.com/xCoreProject/CoreClient/releases)
