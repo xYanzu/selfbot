@@ -56,7 +56,7 @@ Pour obtenir de l'aide ou signaler un problème, veuillez consulter la section [
 
 ## :coffee: Soutenir le projet
 
-Si vous souhaitez soutenir le développement continu de ce projet, vous pouvez me soutenir sur [Buy Me a Coffee](https://www.buymeacoffee.com/votre-utilisateur) :coffee:. Votre générosité est grandement appréciée et contribuera à améliorer le projet !
+Si vous souhaitez soutenir le développement continu de ce projet, vous pouvez me soutenir sur [Buy Me a Coffee](https://www.buymeacoffee.com/xyanzu) :coffee:. Votre générosité est grandement appréciée et contribuera à améliorer le projet !
 
 ## :scroll: Licence
 
