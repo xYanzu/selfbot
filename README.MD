@@ -13,9 +13,6 @@
 > Core Client est un selfbot Discord utile et intuitif !  
 </div>
 
-
-> Core Client est un selfbot Discord utile et intuitif !
-
 ## :bust_in_silhouette: Créateur
 
 - [Yanzu](https://github.com/xYanzu/)
