@@ -51,7 +51,7 @@ Core Client permet de gérer facilement votre compte. Maximisez votre expérienc
 
 ## :speech_balloon: Support
 
-Pour obtenir de l'aide ou signaler un problème, veuillez consulter la section [Issues](https://github.com/votre-utilisateur/votre-projet/issues) de ce dépôt GitHub.
+Pour obtenir de l'aide ou signaler un problème, veuillez consulter la section [Issues](https://github.com/xCoreProject/CoreClient/issues) de ce dépôt GitHub.
 
 ## :coffee: Soutenir le projet
 
