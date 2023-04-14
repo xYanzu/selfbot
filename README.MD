@@ -7,7 +7,8 @@
 [![Discord](https://img.shields.io/discord/123456789012345678.svg?colorB=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/votre-serveur)
 [![License](https://img.shields.io/github/license/votre-utilisateur/votre-projet.svg)](LICENSE)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-%23FFDD00.svg)](https://www.buymeacoffee.com/votre-utilisateur)
-
+[![Downloads](https://img.shields.io/github/downloads/votre-utilisateur/votre-projet/total.svg)](https://github.com/xYanzup/selfbot/releases)
+[![Views](https://views.whatever/view-count/votre-utilisateur/votre-projet.svg)](https://views.whatever/view-count/xYanzu/selfbot)
 > Courte phrase d'accroche pour votre projet
 
 ## :bust_in_silhouette: Créateur
