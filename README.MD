@@ -1,60 +1,58 @@
 <p align="center">
-  <img src="logo.png" alt="Logo du projet" width="150">
+  <img src="https://media.discordapp.net/attachments/1092120104155762860/1096526270826807306/Sans_titre.jpg?width=426&height=426" alt="Logo du projet" width="150">
 </p>
 
-# :computer: Nom du Projet
+# :computer: Core Client
 
-[![Discord](https://img.shields.io/discord/123456789012345678.svg?colorB=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/votre-serveur)
+[![Discord](https://img.shields.io/discord/123456789012345678.svg?colorB=7289DA&label=Discord&logo=discord&logoColor=white)]([https://discord.gg/votre-serveur](https://discord.gg/M4DeuABSKz))
 [![License](https://img.shields.io/github/license/votre-utilisateur/votre-projet.svg)](LICENSE)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-%23FFDD00.svg)](https://www.buymeacoffee.com/votre-utilisateur)
-[![Downloads](https://img.shields.io/github/downloads/votre-utilisateur/votre-projet/total.svg)](https://github.com/xYanzup/selfbot/releases)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-%23FFDD00.svg)](https://www.buymeacoffee.com/xYanzu)
+[![Downloads](https://img.shields.io/github/downloads/xCoreProject/CoreClient.svg)](https://github.com/xCoreProject/CoreClient/releases)
 
-> Courte phrase d'accroche pour votre projet
+> Core Client est un selfbot Discord utile et intuitif !
 
 ## :bust_in_silhouette: Créateur
 
-Nom du créateur
+- [Yanzu](https://github.com/xYanzu/)
+- [Muzu](https://github.com/MuzuBinks)
+- [Ayzu](https://github.com/AyzuDev)
 
-## :scroll: Table des matières
+## :scroll: Sommaire
 
-- [:page_facing_up: Termes de service (ToS)](#termes-de-service-tos)
+- [:page_facing_up: (ToS)](#termes-de-service-tos)
 - [:memo: Description](#description)
-- [:camera: Captures d'écran](#captures-décran)
+- [:camera: Image](#captures-décran)
 - [:rocket: Fonctionnalités](#fonctionnalités)
 - [:speech_balloon: Support](#support)
-- [:tada: Contribuer](#contribuer)
 - [:coffee: Soutenir le projet](#soutenir-le-projet)
 - [:scroll: Licence](#licence)
 
 ## :page_facing_up: Termes de service (ToS)
 
-Les termes de service pour l'utilisation de ce projet peuvent être trouvés dans le fichier [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md).
+Core Client facilite la gestion de votre compte Discord, cependant, nous ne soutenons ni n'encourageons l'utilisation de Core Client pour des activités contraires aux Conditions d'utilisation (ToS) de Discord. Nous ne sommes pas responsables des actions entreprises par les utilisateurs qui enfreignent les règles de Discord. Utilisez Core Client de manière responsable et légale, en conformité avec les règles de Discord.
 
 ## :memo: Description
 
-Courte description du projet. Vous pouvez ajouter ici une brève présentation des fonctionnalités, de l'utilité ou des avantages de votre client Discord.
+Core Client permet de gérer facilement votre compte. Maximisez votre expérience Discord avec des fonctionnalités modernes et une interface utilisateur attrayante. Essayez Core Client dès maintenant pour simplifier la gestion de votre compte Discord !
 
 ## :camera: Captures d'écran
 
-![Image du projet 1](screenshot1.png)
+![Core Client](https://media.discordapp.net/attachments/1094632909463359529/1096530593380053053/image.png?width=1025&height=249)
 *Description de l'image*
 
-![Image du projet 2](screenshot2.png)
+![Help](https://media.discordapp.net/attachments/1094632909463359529/1096528870842306671/image.png?width=560&height=426)
 *Description de l'image*
 
 ## :rocket: Fonctionnalités
 
-- Fonctionnalité 1 : Description de la fonctionnalité 1
-- Fonctionnalité 2 : Description de la fonctionnalité 2
-- ...
+- Ultra Logger : Message Logger, URL & IMG Saver
+- Server Cloner : Backup + Emote Clone & Embed Copier
+- Account : Anti-Group ,Dmall Friend , Clear all dm's
+- And more !
 
 ## :speech_balloon: Support
 
 Pour obtenir de l'aide ou signaler un problème, veuillez consulter la section [Issues](https://github.com/votre-utilisateur/votre-projet/issues) de ce dépôt GitHub.
-
-## :tada: Contribuer
-
-Nous sommes ouverts aux contributions ! Si vous souhaitez contribuer à ce projet, veuillez consulter le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour obtenir plus d'informations sur la façon de contribuer.
 
 ## :coffee: Soutenir le projet
 
@@ -62,4 +60,4 @@ Si vous souhaitez soutenir le développement continu de ce projet, vous pouvez m
 
 ## :scroll: Licence
 
-Le projet est sous licence [LICENSE](LICENSE).
+- Le projet Core Client est distribué sous une licence ouverte qui permet aux utilisateurs de l'utiliser, de le modifier et de le distribuer conformément aux termes de la licence. Cette licence garantit la liberté d'utilisation, de partage et de modification du logiciel, tout en protégeant les droits des contributeurs et en respectant les lois applicables en matière de propriété intellectuelle. En utilisant le projet Core Client, vous acceptez de vous conformer aux termes de la licence et de respecter les droits des contributeurs et les lois en vigueur. Pour plus d'informations sur la licence du projet Core Client, veuillez vous référer à la documentation officielle de la licence incluse dans le projet.
