@@ -6,7 +6,7 @@
 
 [![Support](https://img.shields.io/discord/1091700912759771246?color=%237289DA&label=Rejoindre%20le%20serveur&logo=discord&style=for-the-badge)](https://discord.gg/M4DeuABSKz)
 [![License](https://img.shields.io/github/license/votre-utilisateur/votre-projet.svg)](LICENSE)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-%23FFDD00.svg)](https://www.buymeacoffee.com/xYanzu)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/xyanzu)
 [![Downloads](https://img.shields.io/github/downloads/xCoreProject/CoreClient.svg)](https://github.com/xCoreProject/CoreClient/releases)
 
 > Core Client est un selfbot Discord utile et intuitif !
