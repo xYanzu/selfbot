@@ -38,6 +38,7 @@
     Run python3 main.py to launch the main.py file.
 
 Make sure main.py and requirements.txt are in the same directory.
+
 :warning: Don't forget to fill in the settings (settings/data.json)
 
 ## :page_facing_up: Termes of service (ToS)
