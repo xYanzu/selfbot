@@ -10,10 +10,10 @@
 [![Soutenir avec Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/xyanzu)
 [![Téléchargements](https://img.shields.io/github/downloads/xCoreProject/CoreClient/total?style=for-the-badge&label=Téléchargements)](https://github.com/xCoreProject/CoreClient/releases)
   
-> Core Client est un selfbot Discord utile et intuitif !  
+> Core Client is a useful and intuitive Discord selfbot! 
 </div>
 
-## :bust_in_silhouette: Créateur
+## :bust_in_silhouette: Creators
 
 - [Yanzu](https://github.com/xYanzu/)
 - [Muzu](https://github.com/MuzuBinks)
@@ -25,33 +25,34 @@
 - [:page_facing_up: (ToS)](#termes-de-service-tos)
 - [:memo: Description](#description)
 - [:camera: Image](#captures-décran)
-- [:rocket: Fonctionnalités](#fonctionnalités)
+- [:rocket: Features](#fonctionnalités)
 - [:speech_balloon: Support](#support)
-- [:coffee: Soutenir le projet](#soutenir-le-projet)
+- [:coffee: Support the project](#soutenir-le-projet)
 - [:scroll: Licence](#licence)
 
 ## :pushpin: Tutorial
 
-    Assurez-vous d'avoir Python 3 installé sur votre système.
-    Exécuter le fichier setup.sh pour le bon fonctionnement du selfbot
-    Exécutez python3 main.py pour lancer le fichier main.py.
+    Make sure you have Python 3 installed on your system.
+    Run the setup.sh file for the proper functioning of the selfbot.
+    Configure the data.json file located in the settings folder.
+    Run python3 main.py to launch the main.py file.
 
-Assurez-vous que le fichier main.py et requirements.txt sont dans le même répertoire.
+Make sure main.py and requirements.txt are in the same directory.
 
-## :page_facing_up: Termes de service (ToS)
+## :page_facing_up: Termes of service (ToS)
 
-Core Client facilite la gestion de votre compte Discord, cependant, nous ne soutenons ni n'encourageons l'utilisation de Core Client pour des activités contraires aux Conditions d'utilisation (ToS) de Discord. Nous ne sommes pas responsables des actions entreprises par les utilisateurs qui enfreignent les règles de Discord. Utilisez Core Client de manière responsable et légale, en conformité avec les règles de Discord. CoreClient est contre les ToS de Discord ! 
+Core Client makes it easy to manage your Discord account, however, we do not support or encourage the use of Core Client for activities contrary to Discord's Terms of Service (ToS). We are not responsible for actions taken by users that violate Discord's rules. Use Core Client responsibly and legally, in accordance with Discord's rules. CoreClient is against Discord ToS !
 
 ## :memo: Description
 
-Core Client permet de gérer facilement votre compte. Maximisez votre expérience Discord avec des fonctionnalités modernes et une interface utilisateur attrayante. Essayez Core Client dès maintenant pour simplifier la gestion de votre compte Discord !
+Core Client makes it easy to manage your account. Maximize your Discord experience with modern features and an attractive user interface. Try Core Client now to simplify your Discord account management!
 
-## :camera: Captures d'écran
+## :camera: Screenshots
 
 ![Core Client](https://media.discordapp.net/attachments/1094632909463359529/1096530593380053053/image.png?width=1025&height=249)
-![Help](https://media.discordapp.net/attachments/1094632909463359529/1096528870842306671/image.png?width=560&height=426)
+![Help](https://media.discordapp.net/attaCore Client facilite la gestion de votre compte Discord, cependant, nous ne soutenons ni n'encourageons l'utilisation de Core Client pour des activités contraires aux Conditions d'utilisation (ToS) de Discord. Nous ne sommes pas responsables des actions entreprises par les utilisateurs qui enfreignent les règles de Discord. Utilisez Core Client de manière responsable et légale, en conformité avec les règles de Discord. CoreClient est contre les ToS de Discord ! chments/1094632909463359529/1096528870842306671/image.png?width=560&height=426)
 
-## :rocket: Fonctionnalités
+## :rocket: Features
 
 - Ultra Logger : Message Logger, URL & IMG Saver
 - Server Cloner : Backup + Emote Clone & Embed Copier
@@ -60,12 +61,12 @@ Core Client permet de gérer facilement votre compte. Maximisez votre expérienc
 
 ## :speech_balloon: Support
 
-Pour obtenir de l'aide ou signaler un problème, veuillez consulter la section [Issues](https://github.com/xCoreProject/CoreClient/issues) de ce dépôt GitHub.
+For help or to report an issue, please see the [Issues](https://github.com/xCoreProject/CoreClient/issues) section of this GitHub repository.
 
-## :coffee: Soutenir le projet
+## :coffee: Support the project
 
-Si vous souhaitez soutenir le développement continu de ce projet, vous pouvez me soutenir sur [Buy Me a Coffee](https://www.buymeacoffee.com/xyanzu) :coffee:. Votre générosité est grandement appréciée et contribuera à améliorer le projet !
+If you would like to support the continued development of this project, you can support me at [Buy Me a Coffee](https://www.buymeacoffee.com/xyanzu):coffee:. Your generosity is greatly appreciated and will help improve the project!
 
 ## :scroll: Licence
 
-- Le projet Core Client est distribué sous une licence ouverte qui permet aux utilisateurs de l'utiliser, de le modifier et de le distribuer conformément aux termes de la licence. Cette licence garantit la liberté d'utilisation, de partage et de modification du logiciel, tout en protégeant les droits des contributeurs et en respectant les lois applicables en matière de propriété intellectuelle. En utilisant le projet Core Client, vous acceptez de vous conformer aux termes de la licence et de respecter les droits des contributeurs et les lois en vigueur. Pour plus d'informations sur la licence du projet Core Client, veuillez vous référer à la documentation officielle de la licence incluse dans le projet.
+- The Core Client project is distributed under an open license that allows users to use, modify, and distribute it according to the terms of the license. This license guarantees the freedom to use, share and modify the software, while protecting the rights of contributors and respecting applicable intellectual property laws. By using the Core Client project, you agree to abide by the terms of the license and to respect contributors' rights and applicable laws. For more information about the Core Client project license, please refer to the official license documentation included in the project.
