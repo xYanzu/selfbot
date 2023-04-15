@@ -33,7 +33,7 @@
 ## :pushpin: Tutorial
 
     Assurez-vous d'avoir Python 3 installé sur votre système.
-    Exécutez pip install -r requirements.txt pour installer les modules requis.
+    Exécuter le fichier setup.sh pour le bon fonctionnement du selfbot
     Exécutez python3 main.py pour lancer le fichier main.py.
 
 Assurez-vous que le fichier main.py et requirements.txt sont dans le même répertoire.
