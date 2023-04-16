@@ -52,6 +52,7 @@ Core Client makes it easy to manage your account. Maximize your Discord experien
 ## :camera: Screenshots
 
 ![Core Client](https://media.discordapp.net/attachments/1094632909463359529/1096530593380053053/image.png?width=1025&height=249)
+
 ![Help](https://media.discordapp.net/attaCore Client facilite la gestion de votre compte Discord, cependant, nous ne soutenons ni n'encourageons l'utilisation de Core Client pour des activités contraires aux Conditions d'utilisation (ToS) de Discord. Nous ne sommes pas responsables des actions entreprises par les utilisateurs qui enfreignent les règles de Discord. Utilisez Core Client de manière responsable et légale, en conformité avec les règles de Discord. CoreClient est contre les ToS de Discord ! chments/1094632909463359529/1096528870842306671/image.png?width=560&height=426)
 
 ## :rocket: Features
